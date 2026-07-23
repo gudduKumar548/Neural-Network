@@ -144,7 +144,6 @@ Input Layer       Hidden Layer        Output Layer
     raw features     learned          final
                      patterns        prediction
 ```
-
 - **Input layer** — raw data (pixels, numbers, words…)
 - **Hidden layers** — learn intermediate patterns (can be many!)
 - **Output layer** — final prediction
