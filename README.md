@@ -442,4 +442,4 @@ Once you're comfortable with the basics, explore:
 
 ---
 
-*Happy learning!*
+*This Note belongs to @GudduKumar*
