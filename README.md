@@ -442,4 +442,4 @@ Once you're comfortable with the basics, explore:
 
 ---
 
-*This Note belongs to @GudduKumar*
+*made by @GudduKumar*
